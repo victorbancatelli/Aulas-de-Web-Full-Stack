@@ -5,7 +5,7 @@ Este repositório reúne os projetos desenvolvidos durante a disciplina de **Des
 ## 🧠 Conteúdo estudado
 
 - ✅ Aula 1 – HTML, C# e atalhos do Emmet 
-- ⏰ Aula 2 – Em breve
+- ✅ Aula 2 – Style CSS e FlexBox
 - ⏰ Aula 3 – Em breve
 - ⏰ Aula 4 – Em breve
 - ⏰ Aula 5 – Em breve
