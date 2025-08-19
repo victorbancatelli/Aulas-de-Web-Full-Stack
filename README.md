@@ -4,18 +4,18 @@ Este repositório reúne os projetos desenvolvidos durante a disciplina de **Des
 
 ## 🧠 Conteúdo estudado
 
-- ✅ Aula 1 – HTML, C# e atalhos do Emmet 
-- ✅ Aula 2 – Style CSS e FlexBox
-- ⏰ Aula 3 – Em breve
-- ⏰ Aula 4 – Em breve
+- ✅ Aula 2 – HTML, C# e atalhos do Emmet 
+- ✅ Aula 3 – Style CSS e FlexBox
+- ✅ Aula 4 – Exercício de montar um site utilizando HTML, CSS, Grid e FlexBox
 - ⏰ Aula 5 – Em breve
+- ⏰ Aula 6 – Em breve
 
 ## 💻 Tecnologias utilizadas
 
-- Linguagem:`HTML, C#` 
+- Linguagem:`HTML, C#, CSS` 
 - IDE: Visual Studio / VS Code
 - Versionamento: Git + GitHub
-
+- Módulos de Layout: Grid e FlexBox
 
 ## ✍️ Autor
 
